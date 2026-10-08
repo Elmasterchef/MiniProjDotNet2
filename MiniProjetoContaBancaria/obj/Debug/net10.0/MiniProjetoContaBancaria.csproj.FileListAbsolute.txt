@@ -1,0 +1,15 @@
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\bin\Debug\net10.0\MiniProjetoContaBancaria.exe
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\bin\Debug\net10.0\MiniProjetoContaBancaria.deps.json
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\bin\Debug\net10.0\MiniProjetoContaBancaria.runtimeconfig.json
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\bin\Debug\net10.0\MiniProjetoContaBancaria.dll
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\bin\Debug\net10.0\MiniProjetoContaBancaria.pdb
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\MiniProjetoContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\MiniProjetoContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\MiniProjetoContaBancaria.AssemblyInfo.cs
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\MiniProjetoContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\MiniProjetoContaBancaria.sourcelink.json
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\MiniProjetoContaBancaria.dll
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\refint\MiniProjetoContaBancaria.dll
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\MiniProjetoContaBancaria.pdb
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\MiniProjetoContaBancaria.genruntimeconfig.cache
+C:\Users\Rafael Franzen\OneDrive\Documentos\ProjSocialDark\central-core\MiniProjDotNet\MiniProjetoContaBancaria\obj\Debug\net10.0\ref\MiniProjetoContaBancaria.dll
